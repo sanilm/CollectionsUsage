@@ -13,6 +13,7 @@ public class ArrayListeg {
 		al.add("san");
 		al.add("man");
 		al.add("man");
+		al.add("san");
 		
 		Iterator< String> it = al.iterator();
 		while(it.hasNext())

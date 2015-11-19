@@ -4,7 +4,7 @@ package com.igate.creek;
 
 public class Reversek {
 
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		
